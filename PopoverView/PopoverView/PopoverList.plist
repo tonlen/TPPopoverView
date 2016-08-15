@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Item1</string>
+		<key>icon</key>
+		<string>initiate_group_chat</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Item2</string>
+		<key>icon</key>
+		<string>concern_models</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Item3</string>
+		<key>icon</key>
+		<string>add_riders</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Item4</string>
+		<key>icon</key>
+		<string>people_nearby</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Item5</string>
+		<key>icon</key>
+		<string>eearby_group</string>
+	</dict>
+</array>
+</plist>
