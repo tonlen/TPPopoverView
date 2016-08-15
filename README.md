@@ -4,5 +4,5 @@
 所以我们还是用新的方法来使用系统自带的PopoverView以及一些效果的定制。
 
 最终效果：
-![效果图](http://www.letout.cc/usr/uploads/2016/08/561504001.jpg)
+![效果图](https://github.com/tonlen/TPPopoverView/blob/master/IMG_0447.jpg)
 
